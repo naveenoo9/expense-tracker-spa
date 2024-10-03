@@ -1,0 +1,8 @@
+.root-container {
+  height: 100%;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  display: grid;
+  grid-template-rows: 5.4rem auto;
+  row-gap: 0.6rem;
+}

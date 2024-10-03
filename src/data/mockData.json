@@ -1,0 +1,256 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "time": "9/28/2024 12:38",
+      "type": "(*) Transfer",
+      "amount": 12749,
+      "category": "-",
+      "account": "Cards->Friends",
+      "notes": "Ravi SBI Credit Card Mobile Bookings"
+    },
+    {
+      "id": 2,
+      "time": "9/28/2024 12:47",
+      "type": "(*) Transfer",
+      "amount": 12750,
+      "category": "-",
+      "account": "Friends->SBI Savings",
+      "notes": "Ravi Mobile Credit Card Transfer"
+    },
+    {
+      "id": 3,
+      "time": "9/28/2024 17:47",
+      "type": "(-) Expense",
+      "amount": 28000,
+      "category": "Prime Kasani",
+      "account": "AXIS Savings",
+      "notes": "50% Rental Advance from 56,000"
+    },
+    {
+      "id": 4,
+      "time": "9/30/2024 11:18",
+      "type": "(-) Expense",
+      "amount": 300,
+      "category": "Food",
+      "account": "AXIS Savings",
+      "notes": "Gokul Udupi Veg"
+    },
+    {
+      "id": 5,
+      "time": "9/30/2024 11:18",
+      "type": "(+) Income",
+      "amount": 400,
+      "category": "Grants",
+      "account": "SBI Savings",
+      "notes": "Ramsai Nath"
+    },
+    {
+      "id": 6,
+      "time": "9/30/2024 12:44",
+      "type": "(-) Expense",
+      "amount": 20,
+      "category": "Food",
+      "account": "ICICI Savings",
+      "notes": "Prajapat Jitaram Parasmal"
+    },
+    {
+      "id": 7,
+      "time": "9/30/2024 12:49",
+      "type": "(-) Expense",
+      "amount": 50,
+      "category": "Food",
+      "account": "ICICI Savings",
+      "notes": "MTP Cafe [Grape Juice]"
+    },
+    {
+      "id": 8,
+      "time": "9/30/2024 13:03",
+      "type": "(+) Income",
+      "amount": 92301,
+      "category": "Salary",
+      "account": "ICICI Savings",
+      "notes": ""
+    },
+    {
+      "id": 9,
+      "time": "9/30/2024 16:24",
+      "type": "(-) Expense",
+      "amount": 1640,
+      "category": "Panduranga Arcade",
+      "account": "ICICI Savings",
+      "notes": "Sep Maintenance"
+    },
+    {
+      "id": 10,
+      "time": "9/30/2024 16:36",
+      "type": "(*) Transfer",
+      "amount": 5000,
+      "category": "-",
+      "account": "ICICI Savings->SBI Savings",
+      "notes": "Monthly Allowances"
+    },
+    {
+      "id": 11,
+      "time": "9/30/2024 16:37",
+      "type": "(*) Transfer",
+      "amount": 12750,
+      "category": "-",
+      "account": "SBI Savings->ICICI Savings",
+      "notes": "Ravi SBI Credit Card Mobile Order"
+    },
+    {
+      "id": 12,
+      "time": "9/30/2024 19:14",
+      "type": "(-) Expense",
+      "amount": 15,
+      "category": "Food",
+      "account": "SBI Savings",
+      "notes": "Radheshyam [Kachori]"
+    },
+    {
+      "id": 13,
+      "time": "9/30/2024 19:38",
+      "type": "(-) Expense",
+      "amount": 157,
+      "category": "Maintenance",
+      "account": "SBI Savings",
+      "notes": "Urban Clap Carpentar"
+    },
+    {
+      "id": 14,
+      "time": "9/30/2024 20:38",
+      "type": "(*) Transfer",
+      "amount": 38000,
+      "category": "-",
+      "account": "ICICI Savings->Friends",
+      "notes": "Ravi Credit Bill"
+    },
+    {
+      "id": 15,
+      "time": "9/30/2024 20:51",
+      "type": "(*) Transfer",
+      "amount": 38000,
+      "category": "-",
+      "account": "Friends->ICICI Savings",
+      "notes": "Ravi Credit card Bill"
+    },
+    {
+      "id": 16,
+      "time": "10/1/2024 5:30",
+      "type": "(*) Transfer",
+      "amount": 1000,
+      "category": "-",
+      "account": "ICICI Savings->Savings",
+      "notes": "Mutual Funds SIP"
+    },
+    {
+      "id": 17,
+      "time": "10/1/2024 11:45",
+      "type": "(-) Expense",
+      "amount": 500,
+      "category": "Panduranga Arcade",
+      "account": "Wallet",
+      "notes": "Water Cans 2, Cleaning 200, Dusserah Mamulu"
+    },
+    {
+      "id": 18,
+      "time": "10/1/2024 12:00",
+      "type": "(-) Expense",
+      "amount": 120,
+      "category": "Fuel",
+      "account": "SBI Savings",
+      "notes": "Activa 5G [50 + 70]"
+    },
+    {
+      "id": 19,
+      "time": "10/1/2024 12:03",
+      "type": "(-) Expense",
+      "amount": 100,
+      "category": "Food",
+      "account": "SBI Savings",
+      "notes": "Fruit Juice"
+    },
+    {
+      "id": 20,
+      "time": "10/1/2024 12:15",
+      "type": "(-) Expense",
+      "amount": 100,
+      "category": "Maintenance",
+      "account": "Wallet",
+      "notes": "Glass Works Advance"
+    },
+    {
+      "id": 21,
+      "time": "10/1/2024 12:47",
+      "type": "(-) Expense",
+      "amount": 320,
+      "category": "Food",
+      "account": "SBI Savings",
+      "notes": "Babai Hotel Lunch 160 per meal"
+    },
+    {
+      "id": 22,
+      "time": "10/1/2024 15:37",
+      "type": "(-) Expense",
+      "amount": 150,
+      "category": "Maintenance",
+      "account": "SBI Savings",
+      "notes": "Glass Works Balance"
+    },
+    {
+      "id": 23,
+      "time": "10/1/2024 17:00",
+      "type": "(-) Expense",
+      "amount": 307,
+      "category": "Maintenance",
+      "account": "SBI Savings",
+      "notes": "Urban Clap Carpentar [207+100]"
+    },
+    {
+      "id": 24,
+      "time": "10/1/2024 20:29",
+      "type": "(-) Expense",
+      "amount": 160,
+      "category": "Food",
+      "account": "SBI Savings",
+      "notes": "Radheshyam [5 kachori 100, 3 Samosa, Single Bajji]"
+    },
+    {
+      "id": 25,
+      "time": "10/2/2024 10:20",
+      "type": "(-) Expense",
+      "amount": 12412,
+      "category": "EMI",
+      "account": "ICICI Savings",
+      "notes": "Personal Loan [2,20,000]"
+    },
+    {
+      "id": 26,
+      "time": "10/2/2024 13:15",
+      "type": "(*) Transfer",
+      "amount": 10000,
+      "category": "-",
+      "account": "Friends->ICICI Savings",
+      "notes": "Theja Advance amount"
+    },
+    {
+      "id": 27,
+      "time": "10/2/2024 13:19",
+      "type": "(-) Expense",
+      "amount": 6303.33,
+      "category": "EMI",
+      "account": "ICICI Savings",
+      "notes": "ICICI Personal Loan [7,50,000]"
+    },
+    {
+      "id": 28,
+      "time": "10/2/2024 13:21",
+      "type": "(-) Expense",
+      "amount": 28000,
+      "category": "Prime Kasani",
+      "account": "ICICI Savings",
+      "notes": "50% Balance Advance 56000"
+    }
+  ]
+}
